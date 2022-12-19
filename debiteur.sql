@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS `debiteur`;
+DROP TABLE IF EXISTS `test`;
 
 CREATE TABLE `debiteur` (
   `id` mediumint(8) unsigned NOT NULL auto_increment,
